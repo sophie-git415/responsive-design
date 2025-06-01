@@ -1,16 +1,17 @@
 body{
     background: #83757588;
     letter-spacing: 3px;
-    font-size:1.5rem;
+    font-size:2rem;
 }
 
 
 
 
 h1 {
-    background-color: yellow;
+
+    background-color: rgb(227, 133, 25);
     text-align: left;
-}
+} 
 
 .item{
     display: flex;
