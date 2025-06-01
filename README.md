@@ -1,3 +1,3 @@
-### Super projet Responsivr Design
+# Super projet Responsivr Design
 ## Projet collaboratif 
-# A faire : Ajouter un fichier `gitignore`
+A faire : Ajouter un fichier `gitignore`
